@@ -1,0 +1,5 @@
+obj\Debug\net7.0\Protos/Todo.cs \
+obj\Debug\net7.0\Protos/TodoGrpc.cs: google/api/http.proto\
+ C:/Users/giorg/.nuget/packages/grpc.tools/2.61.0/build/native/include/google/protobuf/descriptor.proto\
+ google/api/annotations.proto\
+ Protos/todo.proto
